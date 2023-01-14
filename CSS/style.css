@@ -318,6 +318,11 @@ footer{
     width: 32px;
     height: 32px;
 }
+.footer-data__image:hover{
+    cursor: pointer;
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%)
+  contrast(87%);
+}
 .footer-data__image:last-child{
     margin-right: 0;
 }
