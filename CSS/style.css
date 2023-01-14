@@ -158,9 +158,10 @@ h2{
     display: flex;
     justify-content: center;
     text-align: center;
+    flex-wrap: wrap;
 }
 .portfolio__images-row__image{
-    padding-right: 25px;
+    padding: 10px;
 }
 .section-video__video{
     height: 705px;
